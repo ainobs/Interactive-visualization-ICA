@@ -1,0 +1,977 @@
+{
+    "name": "Total Customers",
+    "children": [
+        {
+            "name": "Australia",
+            "children": [
+                {
+                    "name": "Accessories",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 190
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 198
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 241
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 96
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 211
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 213
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 194
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 88
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bikes",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 820
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 163
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 477
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 350
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 454
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 812
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 149
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 466
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 336
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 445
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clothing",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 229
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 44
+                                },
+                                {
+                                    "name": "Multi",
+                                    "size": 315
+                                },
+                                {
+                                    "name": "White",
+                                    "size": 55
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 272
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 218
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 64
+                                },
+                                {
+                                    "name": "Multi",
+                                    "size": 263
+                                },
+                                {
+                                    "name": "White",
+                                    "size": 52
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 272
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Canada",
+            "children": [
+                {
+                    "name": "Accessories",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 123
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 125
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 107
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 54
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 130
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 115
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 147
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 53
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bikes",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 164
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 44
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 101
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 76
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 90
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 143
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 46
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 94
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 75
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 91
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clothing",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 210
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 47
+                                },
+                                {
+                                    "name": "Multi",
+                                    "size": 221
+                                },
+                                {
+                                    "name": "White",
+                                    "size": 32
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 66
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 244
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 39
+                                },
+                                {
+                                    "name": "Multi",
+                                    "size": 249
+                                },
+                                {
+                                    "name": "White",
+                                    "size": 49
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 83
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "France",
+            "children": [
+                {
+                    "name": "Accessories",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 99
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 111
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 110
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 25
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 95
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 97
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 127
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 26
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bikes",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 239
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 55
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 117
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 137
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 143
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 289
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 58
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 111
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 117
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 178
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clothing",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 73
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 19
+                                },
+                                {
+                                    "name": "Multi",
+                                    "size": 196
+                                },
+                                {
+                                    "name": "White",
+                                    "size": 18
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 63
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 72
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 21
+                                },
+                                {
+                                    "name": "Multi",
+                                    "size": 199
+                                },
+                                {
+                                    "name": "White",
+                                    "size": 11
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 66
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Germany",
+            "children": [
+                {
+                    "name": "Accessories",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 115
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 98
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 124
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 18
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 94
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 102
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 120
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 18
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bikes",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 274
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 91
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 117
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 168
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 190
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 277
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 67
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 128
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 125
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 163
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clothing",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 40
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 19
+                                },
+                                {
+                                    "name": "Multi",
+                                    "size": 233
+                                },
+                                {
+                                    "name": "White",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 52
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 58
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 20
+                                },
+                                {
+                                    "name": "Multi",
+                                    "size": 218
+                                },
+                                {
+                                    "name": "White",
+                                    "size": 18
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 54
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "United Kingdom",
+            "children": [
+                {
+                    "name": "Accessories",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 108
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 142
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 141
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 31
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 134
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 124
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 146
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 34
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bikes",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": "306"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": "97"
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": "125"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": "176"
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": "196"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": "361"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": "91"
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": "131"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": "162"
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": "213"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clothing",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": "82"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": "20"
+                                },
+                                {
+                                    "name": "Multi",
+                                    "size": "256"
+                                },
+                                {
+                                    "name": "White",
+                                    "size": "34"
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": "65"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": "88"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": "18"
+                                },
+                                {
+                                    "name": "Multi",
+                                    "size": "286"
+                                },
+                                {
+                                    "name": "White",
+                                    "size": "27"
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": "78"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "United States",
+            "children": [
+                {
+                    "name": "Accessories",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 352
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 379
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 341
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 128
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 341
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 325
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 352
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 135
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bikes",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 823
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 226
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 426
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 486
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 549
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 801
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 196
+                                },
+                                {
+                                    "name": "Red",
+                                    "size": 426
+                                },
+                                {
+                                    "name": "Silver",
+                                    "size": 483
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 491
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Clothing",
+                    "children": [
+                        {
+                            "name": "F",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 487
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 106
+                                },
+                                {
+                                    "name": "Multi",
+                                    "size": 658
+                                },
+                                {
+                                    "name": "White",
+                                    "size": 109
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 225
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M",
+                            "children": [
+                                {
+                                    "name": "Black",
+                                    "size": 520
+                                },
+                                {
+                                    "name": "Blue",
+                                    "size": 110
+                                },
+                                {
+                                    "name": "Multi",
+                                    "size": 643
+                                },
+                                {
+                                    "name": "White",
+                                    "size": 123
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "size": 241
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

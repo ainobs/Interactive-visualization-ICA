@@ -1,39 +1,68 @@
 <!DOCTYPE html>
 <html>
 <head>
+     <!-- connection to D3js CDN -->
+     <script src='https://d3js.org/d3.v4.min.js'></script>
+     <title>Sunburst Chart</title>
+
+    <!-- STYLESHEET -->
     <style>
         body {
             font-family: Sans-serif;
-            font-size: 11px;
-            box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+            font-size: 12px;
+            background-color: rgb(228, 231, 248);
+            padding: 0;
+            margin: 0;
         }
-
+        .chart {
+            margin: auto;
+            width: 60%;
+            background-color: #fff;
+            border-radius: 20px;
+            margin-bottom: 40px;
+            box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+        }
+        .header {
+            text-align: center;
+            background-color: rgb(157, 175, 218);
+            color: #fff;
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 30px;
+            border: 1px solid #fff;
+            border-radius: 5px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
         .slice {
             cursor: pointer;
         }
-
         .slice .main-arc {
             stroke: #fff;
-            stroke-width: 1px;
+            stroke-width: 0.5px;
         }
-
         .slice .hidden-arc {
             fill: none;
         }
-
         .slice text {
             pointer-events: none;
             dominant-baseline: middle;
             text-anchor: middle;
         }
     </style>
-
-    <script src='https://d3js.org/d3.v4.min.js'></script>
 </head>
 <body>
+    <header class="header">
+        <p>Sunburst Chart visualizing count of Customer key by Country, Category, Gender and Colour</p>
+        <p>Victor Aienobe <br> MSc. Computing B1636512<p>
+    </header>
+
+    <div class="chart">
+        <!--- sunburst chart would be appended onto this div -->
+    </div>
+
     <script>
         const width = 600;
-            height = 700,
+            height = 800,
             maxRadius = (Math.min(width, height) / 2) - 5;
 
         const formatNumber = d3.format(',d');
@@ -45,7 +74,7 @@
         const y = d3.scaleSqrt()
             .range([maxRadius*.1, maxRadius]);
 
-        const color = d3.scaleOrdinal(d3.schemeCategory20);
+        const color = d3.scaleOrdinal(d3.schemeCategory20c);
 
         const partition = d3.partition();
 
@@ -79,9 +108,9 @@
             return d.data.name.length * CHAR_SPACE < perimeter;
         };
 
-        const svg = d3.select('body').append('svg')
-            .style('width', '100vw')
-            .style('height', '100vh')
+        const svg = d3.select('.chart').append('svg')
+            .style('width', '100%')
+            .style('height', '680px')
             .attr('viewBox', `${-width / 2} ${-height / 2} ${width} ${height}`)
             .on('click', () => focusOn()); // Reset zoom on canvas click
         
